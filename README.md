@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @LOQUD-DRW-STUDIO
-- 👀 You can look here for everything here?!. Yes
-- 🌱 I’m currently making all here and it's will be soon more things uploaded!.
-- 💞️ I’m looking to c... ? NO!
-- 📫 How to mail me? On mycomputers1993@gmail.com
+Hi, I’m @LOQUD-DRW-STUDIO
+You can look here for everything here?!. Yes
+I'm invite you to Search here my things! Whih can be usefull!.
+
+📫 You can mail me, for shop request buy or information request here " mycomputers1993@gmail.com "
+
+
+<-->
+Sources ...
+<-->
 
 <!---
-LOQUD-DRW-STUDIO/LOQUD-DRW-STUDIO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+LOQUD-DRW-STUDIO/LOQUD-DRW-STUDIO
 --->
